@@ -200,6 +200,17 @@
     },
     {
       "chainId": 101,
+      "address": "7Uia9PU9fEAZWwM5swGhiYvR95NydeMC3jK4kfv8s7jR",
+      "symbol": "gal",
+      "name": "solana galaxi defi",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Uia9PU9fEAZWwM5swGhiYvR95NydeMC3jK4kfv8s7jR/logo.png",
+      "tags": [
+        "defi token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "HCXXtXPasqcF4BVsrPQPfHMQPUofoCbDbjsTUANFSHDR",
       "symbol": "MONKE",
       "name": "MONKE TOKEN",
